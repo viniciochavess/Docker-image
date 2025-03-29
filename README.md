@@ -1,4 +1,4 @@
-Exemplo simples de criação de um container docker.
+Exemplo simples de criação de uma imagem docker.
 
 # Para Realizar a build
 docker build -t api-fake-user . 
